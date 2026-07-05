@@ -128,6 +128,11 @@ Image: page_1.png
 > 이미지를 그대로 마크다운 표에 넣은 예시입니다. 실제 실행 후 이미지 경로/개수(5장)에 맞게
 > 채워 넣거나, `demo_output/theme_1/`, `theme_2/` 폴더의 `story.txt`를 그대로 붙여 넣으면 됩니다.
 
+## Demo Video
+
+[![Demo Video](https://imgur.com/a/PPDPzAP)
+
+
 ## 참고
 
 - 이미지 모델은 `agent.py` 의 `IMAGE_MODEL`(기본 `gpt-image-1`)에서 바꿀 수 있습니다.
