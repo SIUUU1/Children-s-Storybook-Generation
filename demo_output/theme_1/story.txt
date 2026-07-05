@@ -1,0 +1,28 @@
+📖 보라색 하늘을 좋아하는 아기 토끼
+
+Page 1
+Text: 아기 토끼 미미는 하늘을 정말 좋아했어요.
+Visual: Mimi, a small, fluffy baby rabbit with white fur and big, curious eyes, looks up at the sky. She stands in a meadow filled with colorful flowers. The sky is a brilliant blue with fluffy white clouds.
+Image: page_1.png
+
+Page 2
+Text: 어느 날, 하늘이 보라색으로 변했어요.
+Visual: Mimi excitedly hops around the meadow, her ears perked up. The sky is now a beautiful shade of purple with hints of pink and orange as the sun sets. Her eyes sparkle with wonder.
+Image: page_2.png
+
+Page 3
+Text: 미미는 보라색 하늘을 보고 너무 기뻤어요.
+Visual: Mimi sits on her hind legs and smiles at the sky. The purple sky reflects in her wide eyes. The meadow is bathed in warm, purple light, giving it a magical feel.
+Image: page_3.png
+
+Page 4
+Text: 친구들도 보라색 하늘을 보러 왔어요.
+Visual: Several other baby rabbits, with varied fur colors like grey and brown, join Mimi. They all look up joyfully at the purple sky. The meadow is lively with their playful movements and happiness.
+Image: page_4.png
+
+Page 5
+Text: 모두 함께 보라색 하늘 아래서 놀았어요.
+Visual: Mimi and her friends play tag in the meadow under the purple sky. They jump and frolic happily among the flowers. The atmosphere is serene and joyful as the evening sets in with soft twilight hues.
+Image: page_5.png
+
+모든 삽화는 Artifacts 탭에서 page_1.png ~ page_5.png 로 확인할 수 있어요.

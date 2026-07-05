@@ -2,3 +2,4 @@ google-adk
 litellm
 openai
 pydantic
+python-dotenv

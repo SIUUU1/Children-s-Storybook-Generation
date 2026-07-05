@@ -1,0 +1,28 @@
+📖 별을 모으러 떠난 작은 고양이
+
+Page 1
+Text: 작은 고양이 민호는 하늘을 바라봤어요. 별을 모으고 싶었어요.
+Visual: A small, fluffy white kitten named Minho looks up at a starry night sky. His big blue eyes are wide with wonder. The background is a soft midnight blue filled with twinkling stars.
+Image: page_1.png
+
+Page 2
+Text: 민호는 친구들에게 말했어요, '별을 모으러 갈래요.'
+Visual: Minho is surrounded by his friends – a playful squirrel and a cheerful rabbit – in a moonlit forest clearing. The animals listen intently, the squirrel’s bushy tail curled around its feet, and the rabbit's ears perked up.
+Image: page_2.png
+
+Page 3
+Text: 모두가 지혜로운 올빼미에게 갔어요. '어떤 방법이 있을까요?'
+Visual: The animals stand together beneath a large oak tree where a wise owl perches on a branch. The owl is old and has large round eyes, and the tree is full of green leaves despite the night. There is a gentle, hopeful mood.
+Image: page_3.png
+
+Page 4
+Text: 올빼미는 말했어요, '별의 친구가 되어보세요.'
+Visual: The owl spreads its wings thoughtfully as it speaks, while the animals listen with curiosity. The background is softly lit by moonlight filtering through the leaves, casting gentle shadows.
+Image: page_4.png
+
+Page 5
+Text: 민호는 미소 지으며 별들과 친구가 되었어요. 모두 행복했어요.
+Visual: Minho smiles warmly as small, glowing stars float around him. His friends gather close, all of them sparkling with joy. The night sky is bright with stars and a feeling of peace and harmony fills the scene.
+Image: page_5.png
+
+모든 삽화는 Artifacts 탭에서 page_1.png ~ page_5.png 로 확인할 수 있어요.
