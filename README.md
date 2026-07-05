@@ -130,7 +130,7 @@ Image: page_1.png
 
 ## 🎥 Demo Video
 
-[Watch Demo] (https://imgur.com/a/PPDPzAP)
+[Watch Demo](https://imgur.com/a/PPDPzAP)
 
 
 ## 참고
